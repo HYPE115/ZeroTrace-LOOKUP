@@ -1,0 +1,14 @@
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\bin\Release\net8.0\ZeroTrace Lookup.exe
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\bin\Release\net8.0\ZeroTrace Lookup.deps.json
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\bin\Release\net8.0\ZeroTrace Lookup.runtimeconfig.json
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\bin\Release\net8.0\ZeroTrace Lookup.dll
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\bin\Release\net8.0\ZeroTrace Lookup.pdb
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\obj\Release\net8.0\ZeroTrace Lookup.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\obj\Release\net8.0\ZeroTrace Lookup.AssemblyInfoInputs.cache
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\obj\Release\net8.0\ZeroTrace Lookup.AssemblyInfo.cs
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\obj\Release\net8.0\ZeroTrace Lookup.csproj.CoreCompileInputs.cache
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\obj\Release\net8.0\ZeroTrace Lookup.dll
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\obj\Release\net8.0\refint\ZeroTrace Lookup.dll
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\obj\Release\net8.0\ZeroTrace Lookup.pdb
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\obj\Release\net8.0\ZeroTrace Lookup.genruntimeconfig.cache
+D:\C# project\ZeroTrace Lookup\ZeroTrace Lookup\obj\Release\net8.0\ref\ZeroTrace Lookup.dll
